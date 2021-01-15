@@ -16,7 +16,7 @@ const int CREATE_PESPONSE_SUCCESS = 1;
 const int HTTP10 = 1.0;
 const int HTTP11 = 1.1; 
 const int KEEP_ALIVE_TIME = 5000;
-######  
+ 
 class timer;
 class request{
         private:
